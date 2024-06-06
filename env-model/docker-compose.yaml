@@ -1,0 +1,6 @@
+services:
+    dev-env:
+        build: .
+        volumes:
+            - ../:/home/vscode/src
+            

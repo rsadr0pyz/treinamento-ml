@@ -1,0 +1,8 @@
+{
+    "name": "treinamento-ml",
+    "remoteUser": "vscode",
+    "workspaceFolder": "/home/vscode/src",
+    "service": "dev-env",
+    "dockerComposeFile": "./docker-compose.yaml",
+    "shutdownAction": "stopCompose"
+}
